@@ -49,5 +49,5 @@ jobs:
       with:
         app-name: 'kamaha'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_b9a8cd3199a84ff39e71e46856208008 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_b776e6bc15e949659abcd4a541c1ff31 }}
         package: '*.jar'
